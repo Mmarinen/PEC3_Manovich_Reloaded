@@ -49,7 +49,7 @@ Además de la pandemia, también hay otros factores que están afectando la salu
 
 La meditación es una práctica que tiene sus raíces en diversas tradiciones y culturas de todo el mundo y se cree que tiene más de 5.000 años de historia. Ha sido utilizada en diferentes contextos, como la religión, la filosofía y el autoconocimiento y en la actualidad, la meditación es utilizada tanto en contextos religiosos como seculares y es considerada una forma efectiva de reducir el estrés, mejorar la atención y la claridad mental, y promover la tranquilidad.
 
-**Así pues, nos encontramos con una aplicación que nos permite realizar una práctica milenaria desde la facilidad de nuestros dispositivos móviles y ordenadores, sin necesidad de desplazamiento o contratación de expertos mentores para realizar estas técnicas en prácticamente cualquier lugar.**
+**Así pues, nos encontramos con una aplicación que nos permite realizar una práctica milenaria desde la facilidad de nuestros dispositivos móviles y ordenadores, sin necesidad de desplazamiento o contratación de expertos mentores para realizar estas técnicas en prácticamente cualquier lugar, y que además nos ofrece una fusión junto a contenido formativo.**
 
 >Con la softwareización, las posibilidades y las diferentes maneras de usar las herramientas físicas dejan de ser implícitas: se vuelve 
 completamente explícitas. Se dan controles explícitos y detallados a las “técnicas artísticas” y a los “medios de expresión”. **Manovich L. El software toma el mando. 2013. Barcelona, UOC.**
