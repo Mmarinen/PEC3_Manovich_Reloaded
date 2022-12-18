@@ -32,15 +32,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 
-## Caso 2: Headspace
+## Caso 2: Hibridación de la meditación. 
+### Headspace, una aplicación de salud mental para una meditación guíada.
 
 La salud mental es un tema de gran importancia en la actualidad. 
 
+Según estudios realizados, más de un 50% de la población padece un trastorno de ansiedad generalizada a lo largo de su vida, y esta es una cifra que cada año va en aumento. La ansiedad es una respuesta normal y adaptativa a situaciones estresantes o amenazantes, pero puede convertirse en un problema cuando es excesiva o cuando interfiere con la vida diaria de las personas.
+
 Este problema se hizo muy visible durante la pandemia de la COVID-19 y tuvo un impacto significativo en la salud mental de muchas personas en todo el mundo. La incertidumbre y el aislamiento social, así como el miedo y la preocupación por la enfermedad y el futuro, contribuyeron a un aumento del estrés, la ansiedad y la depresión en muchas personas. Además, la pandemia afectó la disponibilidad y el acceso a los servicios de atención de la salud mental, lo que dificultó aún más el cuidado de estos trastornos para muchas personas. Por lo tanto, fue (y sigue siendo) importante que se promoviesen estrategias efectivas para apoyar la salud mental durante esos tiempos de incertidumbre y cambio constante. Esto incluyó la promoción de la práctica de la meditación y la atención plena, así como el acceso a servicios de atención de la salud mental y el apoyo de amigos y familiares.
 
-Además de la pandemia, también hay otros factores que están afectando la salud mental en la actualidad, como el aumento de la polarización política y la creciente brecha entre ricos y pobres. Es importante que se aborde estos problemas de manera adecuada para promover el bienestar mental y emocional de las personas en todo el mundo.
+Además de la pandemia, también hay otros factores que están afectando la salud mental en la actualidad, como las preocupaciones por la salud propia o de un ser querido, problemas financieros, laborales, de pareja y cambios significativos en la vida de uno entre muchos otros. Es importante que se aborde estos problemas de manera adecuada para promover el bienestar mental y emocional de las personas en todo el mundo.
 
-Headspace es una aplicación de meditación y bienestar mental que ofrece una variedad de programas y sesiones guiadas de meditación y ejercicios de respiración para ayudar a las personas a reducir y/o enfrentar el estrés y la ansiedad y mejorar su salud mental y emocional. La aplicación también incluye contenido educativo sobre la meditación y el bienestar mental ofreciendo, además, una amplia variedad de opciones de meditación para diferentes necesidades y objetivos, como meditaciones para el sueño, la atención plena y el estrés. 
+**Headspace** es una aplicación de meditación y bienestar mental que ofrece una variedad de programas y sesiones guiadas de meditación y ejercicios de respiración para ayudar a las personas a reducir y/o enfrentar el estrés y la ansiedad y mejorar su salud mental y emocional. La aplicación también incluye contenido educativo sobre la meditación y el bienestar mental ofreciendo, además, una amplia variedad de opciones de meditación para diferentes necesidades y objetivos, como meditaciones para el sueño, la atención plena y el estrés. 
 
 Headspace se puede utilizar en dispositivos móviles y ordenadores, facilitando estas técnicas al alcance de cualquier persona en cualquier lugar.
 
