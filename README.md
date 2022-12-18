@@ -51,7 +51,7 @@ La meditación es una práctica que tiene sus raíces en diversas tradiciones y 
 
 **Así pues, nos encontramos con una aplicación que nos permite realizar una práctica milenaria desde la facilidad de nuestros dispositivos móviles y ordenadores, sin necesidad de desplazamiento o contratación de expertos mentores para realizar estas técnicas en prácticamente cualquier lugar, y que además nos ofrece una fusión junto a contenido formativo. Además, se ha adaptado a la pequeña pantalla gracias a una serie que está disponible en Netflix y que también es interactiva en la que puedes elegir como te sientes para poder meditar según tu estado emocional en ese momento y elegir el tiempo que quieres hacerlo.**
 
-![Meditation](https://tenor.com/es/view/smile-headspace-guide-to-meditation-peace-peaceful-happy-gif-19670947)
+![Meditation](https://github.com/Mmarinen/PEC3_Manovich_Reloaded/blob/8a1ebfa104361bf1b90e209895af4e95d8e363cc/smile-headspace-guide-to-meditation%20(2).gif)
 
 >Con la softwareización, las posibilidades y las diferentes maneras de usar las herramientas físicas dejan de ser implícitas: se vuelve 
 completamente explícitas. Se dan controles explícitos y detallados a las “técnicas artísticas” y a los “medios de expresión”. **Manovich L. El software toma el mando. 2013. Barcelona, UOC.**
