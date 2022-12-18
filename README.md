@@ -35,7 +35,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 ## Caso 2: Hibridación de la meditación. 
-### Headspace, una aplicación de salud mental para una meditación guíada.
+### Contexto
 
 La salud mental es un tema de gran importancia en la actualidad. 
 
@@ -45,32 +45,23 @@ Este problema se hizo muy visible durante la pandemia de la COVID-19 y tuvo un i
 
 Además de la pandemia, también hay otros factores que están afectando la salud mental en la actualidad, como las preocupaciones por la salud propia o de un ser querido, problemas financieros, laborales, de pareja y cambios significativos en la vida de uno entre muchos otros. Es importante que se aborde estos problemas de manera adecuada para promover el bienestar mental y emocional de las personas en todo el mundo.
 
+### Headspace, una aplicación de salud mental para una meditación guíada.
+
 **Headspace** es una aplicación de meditación y bienestar mental que ofrece una variedad de programas y sesiones guiadas de meditación y ejercicios de respiración para ayudar a las personas a reducir y/o enfrentar el estrés y la ansiedad y mejorar su salud mental y emocional. La aplicación también incluye contenido educativo sobre la meditación y el bienestar mental ofreciendo, además, una amplia variedad de opciones de meditación para diferentes necesidades y objetivos, como meditaciones para el sueño, la atención plena y el estrés. 
+
+![Meditation](https://github.com/Mmarinen/PEC3_Manovich_Reloaded/blob/8a1ebfa104361bf1b90e209895af4e95d8e363cc/smile-headspace-guide-to-meditation%20(2).gif)
 
 La meditación es una práctica que tiene sus raíces en diversas tradiciones y culturas de todo el mundo y se cree que tiene más de 5.000 años de historia. Ha sido utilizada en diferentes contextos, como la religión, la filosofía y el autoconocimiento y en la actualidad, la meditación es utilizada tanto en contextos religiosos como seculares y es considerada una forma efectiva de reducir el estrés, mejorar la atención y la claridad mental, y promover la tranquilidad.
 
 **Así pues, nos encontramos con una aplicación que nos permite realizar una práctica milenaria desde la facilidad de nuestros dispositivos móviles y ordenadores, sin necesidad de desplazamiento o contratación de expertos mentores para realizar estas técnicas en prácticamente cualquier lugar, y que además nos ofrece una fusión junto a contenido formativo. Además, se ha adaptado a la pequeña pantalla gracias a una serie que está disponible en Netflix y que también es interactiva en la que puedes elegir como te sientes para poder meditar según tu estado emocional en ese momento y elegir el tiempo que quieres hacerlo.**
 
-![Meditation](https://github.com/Mmarinen/PEC3_Manovich_Reloaded/blob/8a1ebfa104361bf1b90e209895af4e95d8e363cc/smile-headspace-guide-to-meditation%20(2).gif)
+![Meditation Grogu](https://github.com/Mmarinen/PEC3_Manovich_Reloaded/blob/5ee80bd16ee3f8f02cafd35a101d925733106508/meditation-grogu.gif)
 
 >Con la softwareización, las posibilidades y las diferentes maneras de usar las herramientas físicas dejan de ser implícitas: se vuelve 
 completamente explícitas. Se dan controles explícitos y detallados a las “técnicas artísticas” y a los “medios de expresión”. **Manovich L. El software toma el mando. 2013. Barcelona, UOC.**
 
 Se trata claramente de un caso de hibridación ya que integramos tanto imagen, vídeo, sonido y texto en la pantalla en nuestro propio móvil como si estuviésemos inmersos en una auténtica sesión de meditación. Incluso podemos imaginar y simular gracias a un sonido ambiental que estamos en un lugar distinto al que físicamente nos encontramos. También podemos personalizar dichas sesiones según nuestro estado emocional en el momento de comenzar con el fin de mejorar un trastorno concreto y a la vez es interactivo.
 
-Algunas de las características y funcionalidades de Headspace incluyen: 
-
-**- Guías de meditación, ejercicios de respiración y programas personalizados.** 
-La aplicación ofrece distintas sesiones de meditación guiadas por expertos en meditación. Podemos elegir entre sesiones cortas de unos pocos minutos o programas más largos que duran varias semanas según nuestra disponibilidad o necesidad. Las sesiones están disponibles en diferentes idiomas y se centran en diferentes temas y objetivos, como la reducción del estrés, la mejora del sueño y la atención, y el desarrollo de la compasión y la gratitud. También ofrece ejercicios de respiración y relajación para ayudarnos a controlar el estrés y la ansiedad. Estos ejercicios son cortos y se pueden hacer en cualquier lugar y en cualquier momento basados en tus objetivos y necesidades. . 
-
-**-Contenido educativo.** 
-ncluye una sección de recursos y contenido educativo sobre temas relacionados con la meditación y el bienestar mental donde podemos encontrar artículos, videos y otras herramientas para aprender más sobre la meditación y cómo puede beneficiarnos. 
-
-**-Programas personalizados.** 
-Se ofrecen programas personalizados basados en tus objetivos y necesidades. 
-
-**-Seguimiento del progreso.** 
-Permite seguir nuestro progreso y ver el historial de meditación. Podemos ver cuánto tiempo hemos meditado y establecer recordatorios y metas para motivarte a seguir meditando. 
 
 
 
