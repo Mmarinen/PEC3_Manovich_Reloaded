@@ -3,10 +3,8 @@
 ### Recurso de aprendizaje de Cultura Digital 
 
 
-Autor: 
-
-
-Fecha: 
+Autor: Marta Mariné Niebla
+Fecha: Diciembre 2022
 
 ![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
 
