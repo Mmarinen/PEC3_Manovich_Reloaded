@@ -14,7 +14,9 @@
 
 El concepto de hibridación del que habla Manovich se refiere a la combinación de elementos de diferentes orígenes o disciplinas para crear algo nuevo y original. Bajo este contexto, podemos incluir la mezcla de difrentes medios como texto, imágenes, audio y vídeo, o la combinación de elementos de diferentes culturas y contextos sociales.
 
-En su libro "El software toma el mando", Manovich manifiesta que la cultura digital es híbrida por naturaleza, ya que combina elementos de la cultura tradicional y de la cultura digital. La hibridación es una forma en que la tecnología y la cultura digital se influyen mutuamente y se fusionan, creando nuevas formas de expresión y comunicación, generando también nuevas formas de crear y consumir contenido digital.
+En su libro *"El software toma el mando"*, Manovich manifiesta que la cultura digital es híbrida por naturaleza, ya que combina elementos de la cultura tradicional y de la cultura digital. La hibridación es una forma en que la tecnología y la cultura digital se influyen mutuamente y se fusionan, creando nuevas formas de expresión y comunicación, generando también nuevas formas de crear y consumir contenido digital.
+
+
 
 
 A continuación, veremos 2 ejemplos de híbridos de medios informáticos.
@@ -45,18 +47,28 @@ Además de la pandemia, también hay otros factores que están afectando la salu
 
 **Headspace** es una aplicación de meditación y bienestar mental que ofrece una variedad de programas y sesiones guiadas de meditación y ejercicios de respiración para ayudar a las personas a reducir y/o enfrentar el estrés y la ansiedad y mejorar su salud mental y emocional. La aplicación también incluye contenido educativo sobre la meditación y el bienestar mental ofreciendo, además, una amplia variedad de opciones de meditación para diferentes necesidades y objetivos, como meditaciones para el sueño, la atención plena y el estrés. 
 
-Headspace se puede utilizar en dispositivos móviles y ordenadores, facilitando estas técnicas al alcance de cualquier persona en cualquier lugar.
+La meditación es una práctica que tiene sus raíces en diversas tradiciones y culturas de todo el mundo y se cree que tiene más de 5.000 años de historia. Ha sido utilizada en diferentes contextos, como la religión, la filosofía y el autoconocimiento y en la actualidad, la meditación es utilizada tanto en contextos religiosos como seculares y es considerada una forma efectiva de reducir el estrés, mejorar la atención y la claridad mental, y promover la tranquilidad.
+
+**Así pues, nos encontramos con una aplicación que nos permite realizar una práctica milenaria desde la facilidad de nuestros dispositivos móviles y ordenadores, sin necesidad de desplazamiento o contratación de expertos mentores para realizar estas técnicas en prácticamente cualquier lugar.**
+
+>Con la softwareización, las posibilidades y las diferentes maneras de usar las herramientas físicas dejan de ser implícitas: se vuelve 
+completamente explícitas. Se dan controles explícitos y detallados a las “técnicas artísticas” y a los “medios de expresión”. **Manovich L. El software toma el mando. 2013. Barcelona, UOC.**
+
+Se trata claramente de un caso de hibridación ya que integramos tanto imagen, vídeo, sonido y texto en la pantalla en nuestro propio móvil como si estuviésemos inmersos en una auténtica sesión de meditación. Incluso podemos imaginar y simular gracias a un sonido ambiental que estamos en un lugar distinto al que físicamente nos encontramos. También podemos personalizar dichas sesiones según nuestro estado emocional en el momento de comenzar con el fin de mejorar un trastorno concreto y a la vez es interactivo.
 
 Algunas de las características y funcionalidades de Headspace incluyen: 
 
-**- Guías de meditación.** 
-La aplicación ofrece una amplia variedad de sesiones de meditación guiadas por expertos en meditación. Puedes elegir entre sesiones cortas de unos pocos minutos o programas más largos que duran varias semanas. Las sesiones están disponibles en diferentes idiomas y se centran en diferentes temas y objetivos, como la reducción del estrés, la mejora del sueño y la atención, y el desarrollo de la compasión y la gratitud. 
+**- Guías de meditación, ejercicios de respiración y programas personalizados.** 
+La aplicación ofrece distintas sesiones de meditación guiadas por expertos en meditación. Podemos elegir entre sesiones cortas de unos pocos minutos o programas más largos que duran varias semanas según nuestra disponibilidad o necesidad. Las sesiones están disponibles en diferentes idiomas y se centran en diferentes temas y objetivos, como la reducción del estrés, la mejora del sueño y la atención, y el desarrollo de la compasión y la gratitud. También ofrece ejercicios de respiración y relajación para ayudarnos a controlar el estrés y la ansiedad. Estos ejercicios son cortos y se pueden hacer en cualquier lugar y en cualquier momento basados en tus objetivos y necesidades. . 
 
-**-Ejercicios de respiración.** 
-También ofrece ejercicios de respiración y relajación para ayudarte a controlar el estrés y la ansiedad. Estos ejercicios son cortos y se pueden hacer en cualquier lugar y en cualquier momento. Contenido educativo: Headspace incluye una sección de recursos y contenido educativo sobre temas relacionados con la meditación y el bienestar mental. Puedes encontrar artículos, videos y otras herramientas para aprender más sobre la meditación y cómo puede beneficiarte. 
+**-Contenido educativo.** 
+ncluye una sección de recursos y contenido educativo sobre temas relacionados con la meditación y el bienestar mental donde podemos encontrar artículos, videos y otras herramientas para aprender más sobre la meditación y cómo puede beneficiarnos. 
 
 **-Programas personalizados.** 
-Headspace ofrece programas personalizados basados en tus objetivos y necesidades. Puedes responder a un cuestionario para recibir recomendaciones personalizadas y crear un plan de meditación a medida. Seguimiento del progreso: Headspace te permite seguir tu progreso y ver tu historial de meditación. Puedes ver cuánto tiempo has meditado y cuáles son tus sesiones más populares. También puedes establecer recordatorios y metas para motivarte a seguir meditando. 
+Se ofrecen programas personalizados basados en tus objetivos y necesidades. 
+
+**-Seguimiento del progreso.** 
+Permite seguir nuestro progreso y ver el historial de meditación. Podemos ver cuánto tiempo hemos meditado y establecer recordatorios y metas para motivarte a seguir meditando. 
 
 
 
