@@ -4,11 +4,7 @@
 
 ### Recurso de aprendizaje de Cultura Digital 
 
-
 **Autor:** Marta Mariné Niebla. **Fecha:** Diciembre 2022.
-
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
-
 
 
 ## Introducción
@@ -28,10 +24,19 @@ A continuación, veremos 2 ejemplos de híbridos de medios informáticos.
 
 ![GPS](https://github.com/Mmarinen/PEC3_Manovich_Reloaded/blob/452cc40649cb3b3c6268f736dd303f40f0896598/gps.gif)
 
+### Contexto
+
+La primera aplicación de navegación por GPS para móviles fue desarrollada a finales de los años 90. Una de las primeras aplicaciones de este tipo fue Navigator, desarrollada por Qualcomm para dispositivos móviles con sistema operativo PalmOS. Esta aplicación permitía a los usuarios rastrear su posición y obtener direcciones en tiempo real mediante el uso de la red de satélites GPS y la conectividad de datos de sus teléfonos móviles. A partir de entonces, se han desarrollado muchas otras aplicaciones de navegación GPS para teléfonos móviles, como Google Maps y Waze, que han revolucionado la forma en que los usuarios se orientan y se desplazan en todo el mundo.
+
+### SocialDrive
+
 SocialDrive es una herramienta de navegación y tráfico en tiempo real que proporciona información sobre el tráfico, accidentes, obras, radares de velocidad y otros obstáculos en la carretera a medida que se producen. También permite a los usuarios reportar problemas de tráfico y obstáculos en la carretera para que otros usuarios puedan evitarlos. Se basa en la participación y colaboración desde la comunidad para proporcionar información en tiempo real a los demás usuarios.
 
 ¿Y porqué este es un caso de hibridación y no lo es otro cualquier navegador?
-Es una respuesta sencilla. Este es un caso claro en el que se han unido dos conceptos ya existentes para crear uno nuevo. Podemos ver otro ejemplo con la aplicación Waze, que es similar a esta pero a nivel mundial a diferencia de SocialDrive que es nacional. Ambas han hecho un remix de lo que es la navegación y asistente por los mapas utilizando una información ya informatizada y existente (es decir, que no han creado nada nuevo) junto a la inmediatez de una comunicación mediante una red social (algo que también existía por separado) y lo han unido para crear algo nuevo. Además, añaden también información de multas con Legálitas y tráfico oficial con DGT.
+
+Es una respuesta sencilla. 
+
+Este es un caso claro en el que se han unido dos conceptos ya existentes para crear uno nuevo. Podemos ver otro ejemplo con la aplicación Waze, que es similar a esta pero a nivel mundial a diferencia de SocialDrive que es nacional. Ambas han hecho un remix de lo que es la navegación y asistente por los mapas utilizando una información ya informatizada y existente (es decir, que no han creado nada nuevo) junto a la inmediatez de una comunicación mediante una red social (algo que también existía por separado) y lo han unido para crear algo nuevo. Además, añaden también información de multas con Legálitas y tráfico oficial con DGT.
 
 
 Entendemos así que es un híbrido que ha unido la navegación en mapas y una red social por la que se comunican los conductores.
@@ -49,7 +54,7 @@ Este problema se hizo muy visible durante la pandemia de la COVID-19 y tuvo un i
 
 Además de la pandemia, también hay otros factores que están afectando la salud mental en la actualidad, como las preocupaciones por la salud propia o de un ser querido, problemas financieros, laborales, de pareja y cambios significativos en la vida de uno entre muchos otros. Es importante que se aborde estos problemas de manera adecuada para promover el bienestar mental y emocional de las personas en todo el mundo.
 
-### Headspace, una aplicación de salud mental para una meditación guíada.
+### Headspace, una aplicación de salud mental para una meditación guiada.
 
 **Headspace** es una aplicación de meditación y bienestar mental que ofrece una variedad de programas y sesiones guiadas de meditación y ejercicios de respiración para ayudar a las personas a reducir y/o enfrentar el estrés y la ansiedad y mejorar su salud mental y emocional. La aplicación también incluye contenido educativo sobre la meditación y el bienestar mental ofreciendo, además, una amplia variedad de opciones de meditación para diferentes necesidades y objetivos, como meditaciones para el sueño, la atención plena y el estrés. 
 
@@ -72,7 +77,12 @@ Se trata claramente de un caso de hibridación ya que integramos tanto imagen, v
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
-
+ 
+* SocialDrive. Consultado en diciembre de 2022 [en línea] Disponible en: https://genial.ly/es/https://www.socialdrive.es/web/
+ 
+* Youtube. Consultado en diciembre de 2022 [en línea] Disponible en: https://www.youtube.com/watch?v=5Nhmu_Uy2Qw
+ 
+* Headspace. Consultado en diciembre de 2022 [en línea] Disponible en: https://www.headspace.com/es
 
 ----
 
