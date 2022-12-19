@@ -1,3 +1,5 @@
+
+
 # PEC3: Visionando el futuro con las gafas de Manovich. Redescubriendo la hibridación. 
 
 ### Recurso de aprendizaje de Cultura Digital 
@@ -17,20 +19,20 @@ El concepto de hibridación del que habla Manovich se refiere a la combinación 
 En su libro *"El software toma el mando"*, Manovich manifiesta que la cultura digital es híbrida por naturaleza, ya que combina elementos de la cultura tradicional y de la cultura digital. La hibridación es una forma en que la tecnología y la cultura digital se influyen mutuamente y se fusionan, creando nuevas formas de expresión y comunicación, generando también nuevas formas de crear y consumir contenido digital.
 
 
-
-
 A continuación, veremos 2 ejemplos de híbridos de medios informáticos.
 
 
-## Re-descubriendo la hibridacion: Caso 1
+## Caso 2: Hibridando la conducción
 
-“Estas acepciones biológicas de «híbrido» captan a la perfección lo que ha ocurrido con los medios desde su «softwarización» de los ochenta y noventa, a saber, la translación sistemática de muchas técnicas de creación y edición de medios desde las tecnologías físicas, mecánicas y electrónicas a sus aplicaciones en software. ”
+“Estas acepciones biológicas de «híbrido» captan a la perfección lo que ha ocurrido con los medios desde su «softwarización» de los ochenta y noventa, a saber, la translación sistemática de muchas técnicas de creación y edición de medios desde las tecnologías físicas, mecánicas y electrónicas a sus aplicaciones en software. **Manovich L. El software toma el mando. 2013. Barcelona, UOC.**”
 
-Pasaje de
-El software toma el mando
-Lev Manovich
+Es una herramienta de navegación y tráfico en tiempo real que proporciona información sobre el tráfico, accidentes, obras, radares de velocidad y otros obstáculos en la carretera a medida que se producen. También permite a los usuarios reportar problemas de tráfico y obstáculos en la carretera para que otros usuarios puedan evitarlos. Se basa en la participación y colaboración desde la comunidad para proporcionar información en tiempo real a los demás usuarios.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+¿Y porqué este es un caso de hibridación y no lo es otro cualquier navegador?
+Es una respuesta sencilla. Este es un caso claro en el que se han unido dos conceptos ya existentes para crear uno nuevo. Podemos ver otro ejemplo con la aplicación Waze, que es similar a esta pero a nivel mundial a diferencia de SocialDrive que es nacional. Ambas han hecho un remix de lo que es la navegación y asistente por los mapas utilizando una información ya informatizada y existente (es decir, que no han creado nada nuevo) junto a la inmediatez de una comunicación mediante una red social (algo que también existía por separado) y lo han unido para crear algo nuevo. Además, añaden también información de multas con Legálitas y tráfico oficial con DGT.
+
+
+Entendemos así que es un híbrido que ha unido la navegación en mapas y una red social por la que se comunican los conductores.
 
 
 
@@ -53,7 +55,7 @@ Además de la pandemia, también hay otros factores que están afectando la salu
 
 La meditación es una práctica que tiene sus raíces en diversas tradiciones y culturas de todo el mundo y se cree que tiene más de 5.000 años de historia. Ha sido utilizada en diferentes contextos, como la religión, la filosofía y el autoconocimiento y en la actualidad, la meditación es utilizada tanto en contextos religiosos como seculares y es considerada una forma efectiva de reducir el estrés, mejorar la atención y la claridad mental, y promover la tranquilidad.
 
-**Así pues, nos encontramos con una aplicación que nos permite realizar una práctica milenaria desde la facilidad de nuestros dispositivos móviles y ordenadores, sin necesidad de desplazamiento o contratación de expertos mentores para realizar estas técnicas en prácticamente cualquier lugar, y que además nos ofrece una fusión junto a contenido formativo. Además, se ha adaptado a la pequeña pantalla gracias a una serie que está disponible en Netflix y que también es interactiva en la que puedes elegir como te sientes para poder meditar según tu estado emocional en ese momento y elegir el tiempo que quieres hacerlo.**
+**Así pues, nos encontramos con una herramienta que nos permite realizar una práctica milenaria desde la facilidad de nuestros dispositivos móviles y ordenadores, sin necesidad de desplazamiento o contratación de expertos para realizar estas técnicas en prácticamente cualquier lugar, y que también nos ofrece una fusión junto a contenido formativo. Además, se ha adaptado a la pequeña pantalla gracias a una serie que está disponible en Netflix y que también es interactiva en la que puedes elegir como te sientes para poder meditar según tu estado emocional en ese momento y elegir el tiempo que quieres hacerlo.**
 
 >Con la softwareización, las posibilidades y las diferentes maneras de usar las herramientas físicas dejan de ser implícitas: se vuelve 
 completamente explícitas. Se dan controles explícitos y detallados a las “técnicas artísticas” y a los “medios de expresión”. **Manovich L. El software toma el mando. 2013. Barcelona, UOC.**
