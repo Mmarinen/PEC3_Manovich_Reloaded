@@ -41,9 +41,10 @@ Este es un caso claro en el que se han unido dos conceptos ya existentes para cr
 
 Entendemos así que es un híbrido que ha unido la navegación en mapas, una red social por la que se comunican los conductores y una plataforma donde encontrar toda la información con diversos temas de interés relacionados con la conducción y el tráfico.
 
+
+![Pantallas](https://github.com/Mmarinen/PEC3_Manovich_Reloaded/blob/629dc79c7cf50693dcf5f25a7519bbec221438df/Pantallas.jpg)
+
 ¿Cómo funciona? [SocialDrive](https://www.youtube.com/watch?v=5Nhmu_Uy2Qw)
-
-
 
 
 ## Caso 2: Hibridación de la meditación. 
