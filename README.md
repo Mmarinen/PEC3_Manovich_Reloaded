@@ -43,7 +43,7 @@ Entendemos así que es un híbrido que ha unido la navegación en mapas, una red
 
 ¿Cómo funciona? [SocialDrive](https://www.youtube.com/watch?v=5Nhmu_Uy2Qw)
 
-![Radar](https://github.com/Mmarinen/PEC3_Manovich_Reloaded/blob/dc9b01aad803c1ca39f55555916555c645ed1826/EdV9UqB6TcnK5FVbKVykbXzpDcwoizhbSKxlDKJ5NA8.mp4)
+
 
 
 ## Caso 2: Hibridación de la meditación. 
