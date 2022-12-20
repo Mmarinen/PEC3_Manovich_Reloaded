@@ -18,7 +18,7 @@ En su libro *"El software toma el mando"*, Manovich manifiesta que la cultura di
 A continuación, veremos 2 ejemplos de híbridos de medios informáticos.
 
 
-## Caso 2: Hibridando la conducción. SocialDrive.
+## Caso 1: Hibridando la conducción. SocialDrive.
 
 >Estas acepciones biológicas de «híbrido» captan a la perfección lo que ha ocurrido con los medios desde su «softwarización» de los ochenta y noventa, a saber, la translación sistemática de muchas técnicas de creación y edición de medios desde las tecnologías físicas, mecánicas y electrónicas a sus aplicaciones en software. **Manovich L. El software toma el mando. 2013. Barcelona, UOC.**”
 
