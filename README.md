@@ -34,13 +34,12 @@ La primera aplicación de navegación por GPS para móviles fue desarrollada a f
 SocialDrive es una herramienta de navegación y tráfico en tiempo real que proporciona información sobre el tráfico, accidentes, obras, radares de velocidad y otros obstáculos en la carretera a medida que se producen. También permite a los usuarios reportar problemas de tráfico y obstáculos en la carretera para que otros usuarios puedan evitarlos. Se basa en la participación y colaboración desde la comunidad para proporcionar información en tiempo real a los demás usuarios.
 
 ¿Y porqué este es un caso de hibridación y no lo es otro cualquier navegador?
-
 Es una respuesta sencilla. 
 
 Este es un caso claro en el que se han unido dos conceptos ya existentes para crear uno nuevo. Podemos ver otro ejemplo con la aplicación Waze, que es similar a esta pero a nivel mundial a diferencia de SocialDrive que es nacional. Ambas han hecho un remix de lo que es la navegación y asistente por los mapas utilizando una información ya informatizada y existente (es decir, que no han creado nada nuevo) junto a la inmediatez de una comunicación mediante una red social (algo que también existía por separado) y lo han unido para crear algo nuevo. Además, añaden también información de multas con Legálitas y tráfico oficial con DGT, por lo que tenemos un abanico mayor de información y recursos dentro de la misma plataforma.
 
 
-Entendemos así que es un híbrido que ha unido la navegación en mapas y una red social por la que se comunican los conductores.
+Entendemos así que es un híbrido que ha unido la navegación en mapas, una red social por la que se comunican los conductores y una plataforma donde encontrar toda la información con diversos temas de interés relacionados con la conducción y el tráfico.
 
 ¿Cómo funciona? [SocialDrive](https://www.youtube.com/watch?v=5Nhmu_Uy2Qw)
 
